@@ -5,3 +5,4 @@ Power BI中做為表格使用的Logo圖片，尺吋為400 x 120，PBI表格中�
 
 ![GitHub Logo](https://github.com/swift-ec/image-hosting/blob/main/logo/Boox.png?raw=true)
 
+<img src="https://github.com/swift-ec/image-hosting/blob/main/logo/Boox.png?raw=true" alt="Logo Sample" width="200" height="60">
