@@ -1,0 +1,28 @@
+        <svg 
+            width='120' 
+            height='53' 
+            xmlns='http://www.w3.org/2000/svg' 
+            xmlns:xlink='http://www.w3.org/1999/xlink' 
+            viewBox='0 0 120 53'>
+            <rect 
+                x='3' 
+                y='11' 
+                width='114' 
+                height='39' 
+                fill='#fff1e5' 
+                stroke='#f7a66a' 
+                stroke-width='3' 
+                rx='22' 
+                ry='22'/>
+            <text 
+                x='50%' 
+                y='30.5' 
+                dominant-baseline='middle' 
+                text-anchor='middle' 
+                fill='#f7a66a' 
+                font-size='24' 
+                font-family='Segoe UI, Arial, sans-serif' 
+                font-weight='bold'>
+                addon
+            </text>
+        </svg>
